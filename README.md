@@ -14,7 +14,7 @@ still not supported
 
 You can add this repository to locally installed list typing:
 ```
-layman -f -o https://raw.githubusercontent.com/gronastech/nvidia-docker-overlay/master/repositories.xml -a nvidia-docker-overlay
+layman -f -o https://raw.githubusercontent.com/franckspike/nvidia-docker-overlay/master/repositories.xml -a nvidia-docker-overlay
 ```
 
 Packages that need to be installed:

@@ -4,11 +4,11 @@
     <repo quality="experimental" status="unofficial">
         <name>nvidia-docker-overlay</name>
         <description lang="en">Gentoo ebuilds of the https://github.com/NVIDIA/nvidia-docker</description>
-        <homepage>https://github.com/gronastech/nvidia-docker-overlay</homepage>
+        <homepage>https://github.com/franckspike/nvidia-docker-overlay</homepage>
         <owner>
             <email>gronas.public@gmail.com</email>
             <name>Gronas Technologies</name>
         </owner>
-        <source type="git">https://github.com/gronastech/nvidia-docker-overlay.git</source>
+        <source type="git">https://github.com/franckspike/nvidia-docker-overlay.git</source>
     </repo>
 </repositories>
