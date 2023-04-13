@@ -14,6 +14,8 @@ SLOT="0"
 DEPEND="net-libs/libtirpc"
 RDEPEND="$COMMON_DEPEND "
 
+BDEPEND="net-libs/rpcsvc-proto sys-devel/bmake"
+
 TARBALL_PV=${PV}
 NV_GITHUB_REPO="libnvidia-container"
 NV_GITHUB_USER="NVIDIA"
